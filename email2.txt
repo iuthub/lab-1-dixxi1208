@@ -1,0 +1,18 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "{\"email\":\"test@example.com\", \"name\": [\"Boolean\", \"World\"]}": ""
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "58", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.63.0"
+  }, 
+  "json": null, 
+  "origin": "185.248.47.228, 185.248.47.228", 
+  "url": "https://httpbin.org/post"
+}

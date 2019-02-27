@@ -1,0 +1,42 @@
+HTTP/2 200 
+date: Wed, 27 Feb 2019 16:57:32 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: __cfduid=dc7ec36d867fe91251643eef439a546941551286652; expires=Thu, 27-Feb-20 16:57:32 GMT; path=/; domain=.booleanworld.com; HttpOnly; Secure
+vary: Accept-Encoding
+display: pub_site_sol
+expires: Tue, 26 Feb 2019 16:57:32 GMT
+link: <https://www.booleanworld.com/wp-json/>; rel="https://api.w.org/"
+pagespeed: off
+response: 200
+vary: Accept-Encoding,User-Agent,X-APP-JSON
+x-ezoic-cdn: Hit ds;mm;5095a596f1199f08ba97dd339749c4bf;2-95829-0;76a6dd30-1b54-40e0-63b6-d076d166320b
+x-frame-options: sameorigin
+x-middleton-display: pub_site_sol
+x-middleton-response: 200
+x-sol: pub_site
+x-xss-protection: 1; mode=block
+set-cookie: ezoadgid_95829=-1; Path=/; Domain=booleanworld.com; Expires=Wed, 27 Feb 2019 17:27:32 UTC
+set-cookie: ezoref_95829=; Path=/; Domain=booleanworld.com; Expires=Wed, 27 Feb 2019 18:57:32 UTC
+set-cookie: ezoab_95829=mod1; Path=/; Domain=booleanworld.com; Expires=Wed, 27 Feb 2019 18:57:32 UTC
+set-cookie: active_template::95829=pub_site.1551286652; Path=/; Domain=booleanworld.com; Expires=Fri, 01 Mar 2019 16:57:32 UTC
+set-cookie: ezopvc_95829=1; Path=/; Domain=booleanworld.com; Expires=Wed, 27 Feb 2019 17:27:32 UTC
+set-cookie: ezepvv=0; Path=/; Domain=booleanworld.com; Expires=Thu, 28 Feb 2019 16:57:32 UTC
+set-cookie: lp_95829=https://www.booleanworld.com/; Path=/; Domain=booleanworld.com; Expires=Wed, 27 Feb 2019 18:57:32 UTC
+set-cookie: ezovid_95829=1138191411; Path=/; Domain=booleanworld.com; Expires=Wed, 27 Feb 2019 17:27:32 UTC
+set-cookie: ezovuuidtime_95829=1551286652; Path=/; Domain=booleanworld.com; Expires=Fri, 01 Mar 2019 16:57:32 UTC
+set-cookie: ezovuuid_95829=106efd3e-6c57-47db-5103-79a65a23a65e; Path=/; Domain=booleanworld.com; Expires=Wed, 27 Feb 2019 17:27:32 UTC
+set-cookie: ezCMPCCS=true; Path=/; Domain=booleanworld.com; Expires=Thu, 27 Feb 2020 16:57:32 GMT
+x-varnish: 555684874
+via: 1.1 varnish (Varnish/6.0)
+x-vcache: Miss
+x-shard: 100224185
+x-varnish: 923987878
+age: 0
+via: 1.1 varnish (Varnish/6.0)
+cache-control: max-age=0, must-revalidate, no-cache, no-store
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+x-content-type-options: nosniff
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 4afc30e83ad9cad2-ARN
+

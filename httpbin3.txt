@@ -1,0 +1,13 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Cache-Control": "max-stale=0", 
+    "Host": "httpbin.org", 
+    "If-Modified-Since": "Wed, 27 Feb 2019 16:50:52 GMT", 
+    "Referer": "http://www.google.com/", 
+    "User-Agent": "curl/7.63.0"
+  }, 
+  "origin": "185.248.47.228, 185.248.47.228", 
+  "url": "https://httpbin.org/get"
+}
